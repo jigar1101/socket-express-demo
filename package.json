@@ -1,0 +1,10 @@
+{
+    "name": "Socket Express App Demo",
+    "version": "0.0.1",
+    "description": "A demo for using socket io along with express",
+    "dependencies": {
+        "socket.io": "1.7.3",
+        "express": "4.15.2"
+    },
+    "author": "Jigar Mehta"
+}
